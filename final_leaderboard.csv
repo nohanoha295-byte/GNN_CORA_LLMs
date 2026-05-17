@@ -1,12 +1,13 @@
 Team,Accuracy
 AiIkram_claude opus 4.6,81.6
 tasneem-m-selim_qwen2.5-coder:7b,78.2
+hadilaff,76.2
 TugaAhmed_human,74.2
 gururgg_human,70.89999999999999
 abdksm_human,70.7
 DeepSeek-v4-pro,70.0
-Muhammad0isah_human,69.69999999999999
 faranbutt_Gemini-3.1-Flash,69.69999999999999
+Muhammad0isah_human,69.69999999999999
 bjayadikary_human,68.8
 AiIkram_human,67.0
 samuelmatia_human,66.8
